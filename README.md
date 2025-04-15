@@ -1,2 +1,2 @@
-# docs
-Docs for iot7m application
+# Docs
+Manuals for iot7m.
