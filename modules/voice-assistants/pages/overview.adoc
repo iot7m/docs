@@ -1,4 +1,4 @@
-= Best practices
+= Voice assistants
 
 We have some advise on how to administrate and manage infrastructure described in:
 
