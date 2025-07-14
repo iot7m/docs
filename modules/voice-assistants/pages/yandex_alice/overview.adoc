@@ -1,3 +1,1 @@
-= Yandex alice навыки
-
-Here we describe how to setup *Axion* for individual use.
+include::overview-{page-locale}.adoc[]

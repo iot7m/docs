@@ -1,2 +1,4 @@
-* xref:overview.adoc[Voice assistants]
-** xref:yandex_alice/overview.adoc[Yandex alice]
+* xref:overview.adoc[]
+** xref:yandex_alice/overview.adoc[]
+** xref:yandex_alice/aqara.adoc[]
+** xref:yandex_alice/xiaomi.adoc[]

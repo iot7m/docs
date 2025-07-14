@@ -1,0 +1,1 @@
+include::aqara-{page-locale}.adoc[]

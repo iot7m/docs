@@ -1,0 +1,3 @@
+= Yandex Alice
+
+We have some advise on how to administrate and manage infrastructure described in:
