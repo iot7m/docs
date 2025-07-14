@@ -1,8 +1,14 @@
-= Technology radar
-:navtitle: Обзор продукта
+= IoT7m
+:navtitle: Обзор
 
-Technology radar (*Axion*) is irreplaceable when working on many products, and many tools, frameworks and programming languages are used for development. *Axion* creates a complete map of the technology stack, down to the designation of the selected landscape, which makes it indispensable for developers, architects and managers.
+Система умного дома *IoT7m* — это комплекс решений для автоматизации и удалённого управления домашними устройствами. В центре экосистемы — платформа *Home Assistant*, работающая локально или через облако, с акцентом на безопасность, гибкость и автономность.
 
-See how to xref:installation:overview.adoc[install] and start xref:usage:overview.adoc[using] *Axion*.
+*Оборудование IoT7m* включает широкий спектр устройств: датчики протечки, температуры, движения, реле, клапаны, умные розетки, контроллеры отопления, счётчики и другие модули. Эти устройства подключаются по различным протоколам:
 
-We also have some  recommendations on how to work with *Axion* in our xref:best_practices:overview.adoc[best practice] section.
+- *Zigbee* — основной стандарт для надёжной беспроводной связи с низким энергопотреблением;
+- *Wi-Fi* — чаще всего используется в DIY-устройствах на базе *ESPHome* или *Tasmota*;
+- *Z-Wave* — поддерживается при необходимости, по согласованию.
+
+Управление возможно как через мобильное приложение или веб-интерфейс, так и *голосом с помощью Яндекс Алисы*, Google Assistant или Siri. Через Алису можно включать свет, запускать сценарии ("Уехал", "Доброе утро"), проверять состояние дома и многое другое.
+
+Данная документация поможет разобраться с подключением оборудования, настройкой голосового управления и другими техническими аспектами системы.

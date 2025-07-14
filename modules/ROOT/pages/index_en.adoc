@@ -1,8 +1,14 @@
-= Technology radar
-:navtitle: Product overview
+= IoT7m
+:navtitle:  Overview
 
-Technology radar (*Axion*) is irreplaceable when working on many products, and many tools, frameworks and programming languages are used for development. *Axion* creates a complete map of the technology stack, down to the designation of the selected landscape, which makes it indispensable for developers, architects and managers.
+The *IoT7m* smart home system is a comprehensive solution for automating and remotely managing household devices. At the core of the ecosystem is the *Home Assistant* platform, running locally or in the cloud, with a focus on security, flexibility, and autonomy.
 
-See how to xref:installation:overview.adoc[install] and start xref:usage:overview.adoc[using] *Axion*.
+*IoT7m equipment* includes a wide range of devices: leak detectors, temperature and motion sensors, relays, valves, smart sockets, heating controllers, meters, and other modules. These devices connect via various protocols:
 
-We also have some  recommendations on how to work with *Axion* in our xref:best_practices:overview.adoc[best practice] section.
+- *Zigbee* – the primary standard for reliable low-power wireless communication;
+- *Wi-Fi* – most commonly used in DIY devices based on *ESPHome* or *Tasmota*;
+- *Z-Wave* – supported if needed, by prior arrangement.
+
+Control is available via a mobile app, web interface, or *voice assistants such as Yandex Alice*, Google Assistant, and Siri. Using Alice, you can turn lights on and off, run scenarios ("Away", "Good Morning"), check device statuses, and much more.
+
+This documentation will help you understand how to connect equipment, configure voice control, and manage the technical aspects of the system.
