@@ -1,4 +1,4 @@
-* xref:overview-{page-locale}.adoc[]
-** xref:yandex_alice/overview-{page-locale}.adoc[]
-*** xref:yandex_alice/aqara-{page-locale}.adoc[]
-*** xref:yandex_alice/xiaomi-{page-locale}.adoc[]
+* xref:overview-+{page-locale}+.adoc[]
+** xref:yandex_alice/overview-+{page-locale}+.adoc[]
+*** xref:yandex_alice/aqara-+{page-locale}+.adoc[]
+*** xref:yandex_alice/xiaomi-+{page-locale}+.adoc[]
