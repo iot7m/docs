@@ -1,4 +1,4 @@
-* xref:overview.adoc[]
+* xref:overview-{page-locale}.adoc[]
 ** xref:yandex_alice/overview.adoc[]
 *** xref:yandex_alice/aqara.adoc[]
 *** xref:yandex_alice/xiaomi.adoc[]
