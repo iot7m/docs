@@ -1,3 +1,3 @@
-= Usage
+= Yandex alice навыки
 
 Here we describe how to setup *Axion* for individual use.
