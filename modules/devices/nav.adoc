@@ -1,5 +1,7 @@
 * xref:overview-{page-locale}.adoc[]
 ** xref:sensors/overview-{page-locale}.adoc[]
+** xref:sensors/hs2fd-ef1-3-0-{page-locale}.adoc[]
+** xref:sensors/szlmr10-{page-locale}.adoc[]
 ** xref:actuators/overview-{page-locale}.adoc[]
 ** xref:meters/overview-{page-locale}.adoc[]
 ** xref:special/overview-{page-locale}.adoc[]

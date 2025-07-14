@@ -8,7 +8,7 @@
 | HS2FD-EF1-3.0 — Fall Detection Sensor
 
 | Image
-| image::hs2fd-ef1-3_0.png[HS2FD-EF1-3.0]
+| image:hs2fd-ef1-3_0.png[HS2FD-EF1-3.0]
 
 | Overview
 | The *HS2FD-EF1-3.0* Fall Detection Sensor by Heiman is designed to detect sudden changes in body position, such as falls. It is used in security systems and elderly monitoring.
