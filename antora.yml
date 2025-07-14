@@ -3,7 +3,5 @@ title: IoT7m
 version: latest
 prerelease:
 nav:
-- modules/installation/nav.adoc
-- modules/usage/nav.adoc
-- modules/best_practices/nav.adoc
-- modules/release_notes/nav.adoc
+- modules/devices/nav.adoc
+- modules/voice-assistants/nav.adoc

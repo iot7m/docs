@@ -1,2 +1,2 @@
 # Docs
-Manuals for iot7m.
+Manuals for IoT7m.

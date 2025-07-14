@@ -1,1 +1,1 @@
-include::index_{page-locale}.adoc[]
+include::index-{page-locale}.adoc[]
