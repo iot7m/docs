@@ -1,1 +1,0 @@
-include::xiaomi-{page-locale}.adoc[]
