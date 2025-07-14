@@ -8,5 +8,5 @@ Below are available voice skills for controlling different types of equipment.
 
 == Skills
 
-* xref:aqara-{page-locale}.adoc[*Aqara*] – voice control of the Aqara ecosystem via a Zigbee gateway.
-* xref:xiaomi-{page-locale}.adoc[*Xiaomi*] – control of Xiaomi sensors and devices through Home Assistant.
+* xref:yandex_alice/aqara-{page-locale}.adoc[*Aqara*] – voice control of the Aqara ecosystem via a Zigbee gateway.
+* xref:yandex_alice/xiaomi-{page-locale}.adoc[*Xiaomi*] – control of Xiaomi sensors and devices through Home Assistant.
