@@ -6,5 +6,7 @@
 *** xref:actuators/e1743-{page-locale}.adoc[]
 *** xref:actuators/e1810-{page-locale}.adoc[]
 ** xref:meters/overview-{page-locale}.adoc[]
+*** xref:meters/ea4161c-bi-{page-locale}.adoc[]
+*** xref:meters/pc311-z-ty-{page-locale}.adoc[]
 ** xref:special/overview-{page-locale}.adoc[]
 
