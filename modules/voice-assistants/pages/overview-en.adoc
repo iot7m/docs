@@ -2,4 +2,4 @@
 
 We have some advise on how to administrate and manage infrastructure described in:
 
-* xref:yandex_alice/overview.adoc[Yandex Alice]
+* xref:yandex_alice/overview-{page-locale}.adoc[Yandex Alice]
