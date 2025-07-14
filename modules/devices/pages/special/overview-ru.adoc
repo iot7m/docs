@@ -1,3 +1,9 @@
-= Специализированные усройства
+= Специализированные устройства
 
-Here we describe how to setup *Axion* for individual use.
+[cols="2,3", options="header"]
+|===
+| Устройство | Назначение
+
+|
+|
+|===
