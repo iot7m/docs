@@ -1,6 +1,6 @@
 * xref:overview-{page-locale}.adoc[]
 ** xref:sensors/overview-{page-locale}.adoc[]
 ** xref:actuators/overview-{page-locale}.adoc[]
-** xref:measuring-devices/overview-{page-locale}.adoc[]
-** xref:specialized-devices/overview-{page-locale}.adoc[]
+** xref:meters/overview-{page-locale}.adoc[]
+** xref:special/overview-{page-locale}.adoc[]
 
