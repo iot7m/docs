@@ -1,3 +1,12 @@
 = Aqara
 
-We have some advise on how to administrate and manage infrastructure described in:
+The *Aqara skill for Yandex Alice* allows you to control devices in the Aqara ecosystem using the *Yandex Alice* voice assistant.
+
+You can turn lights and outlets on or off, check temperature and humidity, run voice scenarios, and get data from various sensors. The skill works via *Home Assistant* integration and the iot7m Zigbee gateway.
+
+== Features:
+
+- Control lights, outlets, curtains, and other Aqara devices
+- Run voice automation scenes (e.g., "Alice, I’m home")
+- Receive data from temperature, contact, motion, and other sensors
+- Integrated with Home Assistant via Zigbee
