@@ -1,0 +1,3 @@
+= Sensors
+
+Here we describe how to setup *Axion* for individual use.
