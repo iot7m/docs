@@ -28,6 +28,6 @@
 - Compatibility: Zigbee2MQTT, ZHA
 - Firmware update possible via IKEA hub
 
-| Usage in the iot7m system
+| Usage in the IoT7m system
 | This remote can be used for lighting control, activating scenes (e.g., "Movie", "Work"), or switching modes in multi-room setups. All actions are configured via Home Assistant.
 |===

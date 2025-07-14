@@ -38,7 +38,7 @@
 - Питание: От сети переменного тока
 - Рабочий температурный диапазон: -10…+50 °C
 
-| Usage in iot7m system
-| Integrates with the iot7m smart home system via Zigbee gateway and Home Assistant. Enables detailed energy monitoring and automation based on power usage data.
-| Интегрируется с системой умного дома iot7m через Zigbee-шлюз и Home Assistant. Позволяет вести подробный учёт энергопотребления и автоматизировать сценарии на основе данных.
+| Usage in IoT7m system
+| Integrates with the IoT7m smart home system via Zigbee gateway and Home Assistant. Enables detailed energy monitoring and automation based on power usage data.
+| Интегрируется с системой умного дома IoT7m через Zigbee-шлюз и Home Assistant. Позволяет вести подробный учёт энергопотребления и автоматизировать сценарии на основе данных.
 |===

@@ -2,7 +2,7 @@
 
 The *Xiaomi skill for Yandex Alice* enables voice control of Xiaomi ecosystem devices using the *Yandex Alice* voice assistant.
 
-You can turn lights and sockets on or off, access sensor data, and run scenes. The skill works via *Home Assistant* and the iot7m Zigbee gateway with support for Xiaomi devices.
+You can turn lights and sockets on or off, access sensor data, and run scenes. The skill works via *Home Assistant* and the IoT7m Zigbee gateway with support for Xiaomi devices.
 
 == Features:
 

@@ -1,6 +1,6 @@
 = Devices
 
-The *iot7m* system supports a wide range of devices for home automation and monitoring. All hardware integrates via the *Home Assistant* platform using Zigbee, Wi-Fi (ESPHome, Tasmota), and optionally Z-Wave protocols.
+The *IoT7m* system supports a wide range of devices for home automation and monitoring. All hardware integrates via the *Home Assistant* platform using Zigbee, Wi-Fi (ESPHome, Tasmota), and optionally Z-Wave protocols.
 
 Devices are organized into categories — from simple sensors to actuators and specialized modules — allowing for both basic and advanced smart home scenarios.
 

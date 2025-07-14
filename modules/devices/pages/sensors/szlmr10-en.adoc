@@ -28,6 +28,6 @@
 - Operating temperature range: -10…+50 °C
 - Motion detection range: up to 10 meters
 
-| Usage in iot7m system
+| Usage in IoT7m system
 | The sensor integrates via Zigbee gateway and Home Assistant. It enables automatic lighting control, security scenarios, and presence monitoring in rooms.
 |===

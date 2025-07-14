@@ -27,6 +27,6 @@
 - Power supply: Mains powered
 - Operating temperature range: -10…+50 °C
 
-| Usage in iot7m system
-| Integrates with the iot7m smart home system via Zigbee gateway and Home Assistant. Enables detailed energy usage tracking and analysis for efficient management.
+| Usage in IoT7m system
+| Integrates with the IoT7m smart home system via Zigbee gateway and Home Assistant. Enables detailed energy usage tracking and analysis for efficient management.
 |===

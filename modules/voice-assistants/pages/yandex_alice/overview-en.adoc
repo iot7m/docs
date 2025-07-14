@@ -1,8 +1,8 @@
 = Yandex Alice
 
-With the *Yandex Alice* voice assistant, you can control your iot7m smart home: turn lights on and off, adjust heating, run automation scenarios, check sensor statuses, and more.
+With the *Yandex Alice* voice assistant, you can control your IoT7m smart home: turn lights on and off, adjust heating, run automation scenarios, check sensor statuses, and more.
 
-iot7m provides its own Alice voice skills, integrating Zigbee devices and other systems via Home Assistant.
+IoT7m provides its own Alice voice skills, integrating Zigbee devices and other systems via Home Assistant.
 
 Below are available voice skills for controlling different types of equipment.
 

@@ -28,6 +28,6 @@
 - Dimensions: 45×45×10 mm
 - Compatibility: Zigbee2MQTT, ZHA
 
-| Usage in the iot7m system
+| Usage in the IoT7m system
 | The switch can be used to control lights, scenes (e.g., "Night", "Leaving Home"), or trigger automations. Configured via Home Assistant.
 |===

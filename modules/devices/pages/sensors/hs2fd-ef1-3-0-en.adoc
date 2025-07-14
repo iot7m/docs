@@ -27,6 +27,6 @@
 - Operating temperature range: -10…+50 °C
 - Reporting interval: configurable
 
-| Usage in iot7m system
+| Usage in IoT7m system
 | The sensor integrates via Zigbee gateway and Home Assistant. Enables automation of scenarios on fall detection, such as triggering alarms or sending notifications.
 |===
