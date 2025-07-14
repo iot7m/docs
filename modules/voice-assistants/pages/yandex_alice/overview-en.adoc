@@ -1,3 +1,12 @@
 = Yandex Alice
 
-We have some advise on how to administrate and manage infrastructure described in:
+With the *Yandex Alice* voice assistant, you can control your iot7m smart home: turn lights on and off, adjust heating, run automation scenarios, check sensor statuses, and more.
+
+iot7m provides its own Alice voice skills, integrating Zigbee devices and other systems via Home Assistant.
+
+Below are available voice skills for controlling different types of equipment.
+
+== Skills
+
+* xref:aqara.adoc[*Aqara*] – voice control of the Aqara ecosystem via a Zigbee gateway.
+* xref:xiaomi.adoc[*Xiaomi*] – control of Xiaomi sensors and devices through Home Assistant.
