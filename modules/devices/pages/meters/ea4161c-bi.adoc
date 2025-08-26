@@ -1,0 +1,2 @@
+ifndef::page-locale[:page-locale: en]
+include::ea4161c-bi.{page-locale}.adoc[]

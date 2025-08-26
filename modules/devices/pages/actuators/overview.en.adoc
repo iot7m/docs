@@ -4,11 +4,11 @@
 |===
 | Device | Purpose
 
-| xref:actuators/e1743-{page-locale}.adoc[*E1743*]
+| xref:actuators/e1743.adoc[*E1743*]
 TRÅDFRI On/Off Switch (IKEA)
 | Battery-powered Zigbee switch for controlling lights or other smart devices. Supports single and double click for automation triggers.
 
-| xref:actuators/e1810-{page-locale}.adoc[*E1810*]
+| xref:actuators/e1810.adoc[*E1810*]
 TRÅDFRI 5-button Remote Control (IKEA)
 | Multi-button Zigbee remote used to control brightness, power, and mode. Ideal for lighting groups and scenes in smart homes.
 |===
