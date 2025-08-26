@@ -1,5 +1,3 @@
 ifndef::page-locale[:page-locale: en]
-include::index-{page-locale}.adoc[]
-include::partial$index-{page-locale}.adoc[]
+include::partial$index.{page-locale}.adoc[]
 
-include::ROOT:partial$index-{page-locale}.adoc[]
