@@ -1,6 +1,6 @@
 = Голосовые помощники
-:description: A description1 .
-:keywords: comma-separated values, stored, in an HTML, meta, tag
+:description: Управляйте умным домом IoT7m через Яндекс Алису, Google Assistant и Siri: запускайте сценарии, управляйте устройствами и получайте голосовые отчёты.
+:keywords: IoT7m, умный дом, голосовое управление, Home Assistant, Яндекс Алиса, Google Assistant, Siri, автоматизация, сценарии, локальный шлюз, облачная интеграция
 
 Умный дом *IoT7m* можно управлять голосом с помощью популярных голосовых ассистентов — таких как *Яндекс Алиса*, *Google Assistant* и *Apple Siri*.
 

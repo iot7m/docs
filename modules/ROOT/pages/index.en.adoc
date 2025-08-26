@@ -1,4 +1,6 @@
 = IoT7m
+:description: IoT7m smart home system with Home Assistant: automation, remote control, Zigbee, Wi-Fi, Z-Wave, and voice assistants with focus on security.
+:keywords: smart home, IoT7m, Home Assistant, automation, remote control, security, Zigbee, Z-Wave, Wi-Fi, ESPHome, Tasmota, leak detector, temperature sensor, motion sensor, relay, valve, smart socket, heating controller, meter, voice control, Yandex Alice, Google Assistant, Siri, scenarios
 :navtitle:  Overview
 
 The *IoT7m* smart home system is a comprehensive solution for automating and remotely managing household devices. At the core of the ecosystem is the *Home Assistant* platform, running locally or in the cloud, with a focus on security, flexibility, and autonomy.
