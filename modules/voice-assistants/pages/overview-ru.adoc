@@ -1,4 +1,6 @@
 = Голосовые помощники
+:description: A description1 .
+:keywords: comma-separated values, stored, in an HTML, meta, tag
 
 Умный дом *IoT7m* можно управлять голосом с помощью популярных голосовых ассистентов — таких как *Яндекс Алиса*, *Google Assistant* и *Apple Siri*.
 
