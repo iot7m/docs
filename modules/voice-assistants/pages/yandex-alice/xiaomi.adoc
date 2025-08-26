@@ -1,3 +1,2 @@
 ifndef::page-locale[:page-locale: en]
-include::index.{page-locale}.adoc[]
-
+include::xiaomi.{page-locale}.adoc[]

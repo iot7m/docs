@@ -1,1 +1,1 @@
-* xref:index-{page-locale}.adoc[]
+* xref:index.adoc[]

@@ -1,9 +1,0 @@
-= Specialized devices
-
-[cols="2,3", options="header"]
-|===
-| Device | Purpose
-
-|
-|
-|===
