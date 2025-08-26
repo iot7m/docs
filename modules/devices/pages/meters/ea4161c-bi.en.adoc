@@ -1,4 +1,6 @@
 = EA4161C-BI — Single-Phase Multifunction Energy Meter
+:description: EA4161C-BI energy meter: Zigbee 3.0 single-phase multifunction device for measuring current, voltage, power, and consumption in Home Assistant.
+:keywords: IoT7m, smart home, energy meter, EA4161C-BI, Tuya, Zigbee 3.0, Home Assistant, power monitoring, current, voltage, energy consumption, panel mounting, calibration
 
 [cols="1,3", options="header"]
 |===

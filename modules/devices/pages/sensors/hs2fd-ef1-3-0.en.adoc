@@ -1,4 +1,6 @@
 = HS2FD-EF1-3.0 — Fall Detection Sensor
+:description: HS2FD-EF1-3.0 fall detection sensor by Heiman. Zigbee 3.0 device for elderly monitoring and security systems, integrates with Home Assistant.
+:keywords: IoT7m, smart home, fall detection, HS2FD-EF1-3.0, Heiman, Zigbee 3.0, Home Assistant, elderly monitoring, security sensor, automation, alerts, notifications
 
 [cols="1,3", options="header"]
 |===

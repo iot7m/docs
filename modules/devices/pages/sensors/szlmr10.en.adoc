@@ -1,4 +1,6 @@
 = SZLMR10 — Human Motion & Presence Sensor
+:description: SZLMR10 motion and presence sensor by SZ Light. Zigbee 3.0 device for detecting movement and human presence, works with Home Assistant.
+:keywords: IoT7m, smart home, SZLMR10, SZ Light, motion sensor, presence sensor, Zigbee 3.0, Home Assistant, automation, lighting control, security, monitoring
 
 [cols="1,3", options="header"]
 |===

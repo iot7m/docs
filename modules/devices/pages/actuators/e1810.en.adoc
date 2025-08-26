@@ -1,4 +1,6 @@
 = E1810 — 5-Button Remote Control
+:description: IKEA TRÅDFRI 5-Button Remote (E1810/E1524): Zigbee controller for lights, scenes, and modes. Works with Home Assistant via Zigbee2MQTT or ZHA.
+:keywords: IoT7m, smart home, IKEA, TRÅDFRI, E1810, E1524, 5-Button Remote, Zigbee, Zigbee2MQTT, ZHA, Home Assistant, lighting control, scenes, brightness, remote control, automations
 
 [cols="1,3", options="header"]
 |===

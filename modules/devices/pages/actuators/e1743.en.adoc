@@ -1,4 +1,6 @@
 = On/Off Switch
+:description: IKEA TRÅDFRI On/Off Switch (E1743): compact Zigbee remote for lights and automations. Works with Home Assistant via Zigbee2MQTT or ZHA.
+:keywords: IoT7m, smart home, IKEA, TRÅDFRI, E1743, On/Off Switch, Zigbee, Zigbee2MQTT, ZHA, Home Assistant, wireless switch, remote control, lighting, automations
 
 [cols="1,3", options="header"]
 |===

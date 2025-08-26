@@ -1,4 +1,6 @@
 = Measuring devices
+:description: IoT7m measuring devices: Zigbee energy meters such as PC311-Z-TY and EA4161C-BI. Monitor voltage, current, power, and consumption via Home Assistant.
+:keywords: IoT7m, smart home, measuring devices, meters, Home Assistant, Zigbee, Tuya, PC311-Z-TY, EA4161C-BI, energy meter, voltage, current, power, energy consumption, monitoring, distribution panel
 
 [cols="2,3", options="header"]
 |===
