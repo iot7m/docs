@@ -1,7 +1,7 @@
 = IoT7m
-:navtitle: Обзор
 :description: A description .
 :keywords: comma-separated values, stored, in an HTML, meta, tag
+:navtitle: Обзор
 
 Система умного дома *IoT7m* — это комплекс решений для автоматизации и удалённого управления домашними устройствами. В центре экосистемы — платформа *Home Assistant*, работающая локально или через облако, с акцентом на безопасность, гибкость и автономность.
 
