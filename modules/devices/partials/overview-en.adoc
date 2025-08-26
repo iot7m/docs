@@ -1,0 +1,12 @@
+= Devices
+
+The *IoT7m* system supports a wide range of devices for home automation and monitoring. All hardware integrates via the *Home Assistant* platform using Zigbee, Wi-Fi (ESPHome, Tasmota), and optionally Z-Wave protocols.
+
+Devices are organized into categories — from simple sensors to actuators and specialized modules — allowing for both basic and advanced smart home scenarios.
+
+For convenience, all devices are grouped by function:
+
+* xref:sensors/overview-{page-locale}.adoc[*Sensors*] – detect environmental conditions (motion, temperature, leaks, etc.)
+* xref:actuators/overview-{page-locale}.adoc[*Actuators*] – perform actions (turning lights on/off, controlling heating, opening valves, etc.)
+* xref:meters/overview-{page-locale}.adoc[*Measuring Devices*] – collect data from meters, voltage, power, and more
+* xref:special/overview-{page-locale}.adoc[*Specialized Devices*] – non-standard modules like remotes, IR transmitters, displays, and others
