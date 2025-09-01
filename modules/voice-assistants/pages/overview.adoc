@@ -1,3 +1,3 @@
 ifndef::page-locale[:page-locale: en]
-include::overview.{page-locale}.adoc[]
+include::partial$overview.{page-locale}.adoc[]
 

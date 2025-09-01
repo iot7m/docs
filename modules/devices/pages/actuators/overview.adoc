@@ -1,2 +1,2 @@
 ifndef::page-locale[:page-locale: en]
-include::overview.{page-locale}.adoc[]
+include::partial$actuators/overview.{page-locale}.adoc[]
