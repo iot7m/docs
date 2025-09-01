@@ -1,2 +1,2 @@
 ifndef::page-locale[:page-locale: en]
-include::szlmr10.{page-locale}.adoc[]
+include::partial$sensors/szlmr10.{page-locale}.adoc[]
